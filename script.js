@@ -82,10 +82,4 @@
 //      return a+ ' ' + b.length
 //       },"")
       
-// console.log(newArr)
 
-// const arr = [55, 44, 55, 44, 15, 49]
-
-// const newArr = arr.filter((el, idx) => idx === arr.indexOf(el));
-
-// console.log(newArr)
